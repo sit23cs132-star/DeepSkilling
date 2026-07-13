@@ -6,7 +6,6 @@ This directory contains solutions for Week 3 of the Python FSE Deep Skilling pro
 - `index.html` → Basic HTML structure with a course management form and list display.
 - `styles.css` → CSS styling using advanced selectors, custom layouts, and hover effects.
 - `script.js` → JavaScript file demonstrating DOM manipulation, event handling, and asynchronous API calls.
-- `Frontend.md` → Documentation summarizing frontend concepts and exercise specifications.
 
 ## How to Run
 1. Open `index.html` directly in a browser.
