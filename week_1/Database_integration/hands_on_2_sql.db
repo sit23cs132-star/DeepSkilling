@@ -1,0 +1,17 @@
+-- Insert sample data
+INSERT INTO departments (dept_name, head_of_dept, budget) VALUES
+('Computer Science', 'Dr. Ramesh Kumar', 850000.00),
+('Electronics', 'Dr. Priya Nair', 620000.00);
+
+INSERT INTO students (first_name, last_name, email, date_of_birth, department_id, enrollment_year) VALUES
+('Arjun', 'Mehta', 'arjun.mehta@college.edu', '2003-04-12', 1, 2022),
+('Priya', 'Suresh', 'priya.suresh@college.edu', '2003-07-25', 1, 2022);
+
+-- Query: Students enrolled in 2022
+SELECT first_name, last_name FROM students WHERE enrollment_year = 2022;
+
+-- Query: Count students per department
+SELECT d.dept_name, COUNT(s.student_id) AS student_count
+FROM departments d
+LEFT JOIN students s ON d.department_id = s.department_id
+GROUP BY d.dept_name;
