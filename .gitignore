@@ -118,3 +118,6 @@ env/
 *.njsproj
 *.sln
 *.sw?
+
+# Node modules
+node_modules/
