@@ -36,10 +36,10 @@ DeepSkilling/
     ├── QA_Concepts/
     ├── SeleniumBasics/
     └── Week_5.md
-└── Week6/              # Selenium Advanced & DevOps Basics
+└── week_6/             # Selenium Advanced & DevOps Basics
     ├── SeleniumAdvanced/
     ├── DevOpsBasics/
-    └── README.md
+    └── Week_6.md
 ```
 
 ---
@@ -79,7 +79,7 @@ DeepSkilling/
 *   **Design Pattern:** Implementation of the **Page Object Model (POM)** pattern to build robust, maintainable UI tests.
 
 ### 🗓️ Week 6: Selenium Advanced & DevOps Basics
-*   📖 **Module Documentation:** [README.md](Week6/README.md)
+*   📖 **Module Documentation:** [Week_6.md](week_6/Week_6.md)
 *   **Selenium Advanced:** Synchronization with explicit waits, page screenshot generation, file upload handling, and extended Page Object Model patterns.
 *   **DevOps Basics:** Docker containerization, `docker-compose` orchestration, Flask app integration, GitHub Actions CI workflows, and Jenkins declarative pipelines.
 
