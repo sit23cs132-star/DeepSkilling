@@ -32,10 +32,10 @@ DeepSkilling/
 │   ├── Angular_App/
 │   ├── Vue_App/
 │   └── Week_4.md
-└── week_5/             # QA Methodology & Selenium Browser Automation
-    ├── QA_Concepts/
-    ├── SeleniumBasics/
-    └── Week_5.md
+├── week_5/             # QA Methodology & Selenium Browser Automation
+│   ├── QA_Concepts/
+│   ├── SeleniumBasics/
+│   └── Week_5.md
 └── week_6/             # Selenium Advanced & DevOps Basics
     ├── SeleniumAdvanced/
     ├── DevOpsBasics/
