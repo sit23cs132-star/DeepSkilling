@@ -36,6 +36,10 @@ DeepSkilling/
     ├── QA_Concepts/
     ├── SeleniumBasics/
     └── Week_5.md
+└── Week6/              # Selenium Advanced & DevOps Basics
+    ├── SeleniumAdvanced/
+    ├── DevOpsBasics/
+    └── README.md
 ```
 
 ---
@@ -73,6 +77,11 @@ DeepSkilling/
 *   **QA Theory:** Defect lifecycles, test strategy documentations, and test case matrices.
 *   **Automation:** Selenium WebDriver configurations integrated into PyTest suites.
 *   **Design Pattern:** Implementation of the **Page Object Model (POM)** pattern to build robust, maintainable UI tests.
+
+### 🗓️ Week 6: Selenium Advanced & DevOps Basics
+*   📖 **Module Documentation:** [README.md](Week6/README.md)
+*   **Selenium Advanced:** Synchronization with explicit waits, page screenshot generation, file upload handling, and extended Page Object Model patterns.
+*   **DevOps Basics:** Docker containerization, `docker-compose` orchestration, Flask app integration, GitHub Actions CI workflows, and Jenkins declarative pipelines.
 
 ---
 
