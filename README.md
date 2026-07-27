@@ -40,10 +40,10 @@ DeepSkilling/
 │   ├── SeleniumAdvanced/
 │   ├── DevOpsBasics/
 │   └── Week_6.md
-└── week_7/             # Generative AI & Cloud Integration (Week7_GenAI_Cloud)
+└── week_7/             # Generative AI & Cloud Integration
     ├── GenAI/
     ├── Cloud/
-    └── README.md
+    └── Week_7.md
 ```
 
 ---
@@ -88,11 +88,11 @@ DeepSkilling/
 *   **DevOps Basics:** Docker containerization, `docker-compose` orchestration, Flask app integration, GitHub Actions CI workflows, and Jenkins declarative pipelines.
 
 ### 🗓️ Week 7: Generative AI & Cloud
-*   📖 **Module Documentation:** [README.md](week_7/README.md)
+*   📖 **Module Documentation:** [Week_7.md](week_7/Week_7.md)
 *   **GenAI:** Hugging Face text generation, Diffusers image generation pipeline, and interactive chatbot demonstration.
 *   **Cloud:** Multi-cloud operations across AWS (EC2/S3/Lambda), Azure (Blob Storage/Function App), GCP (Cloud Storage/Cloud Functions), and Terraform IaC provisioning.
 
 ---
 
 ## 🚀 How to Navigate
-Each folder includes a dedicated module document (`Week_X.md` or `README.md`) providing step-by-step instructions on dependencies, setup steps, and command references to run/test the code locally.
+Each folder includes a dedicated module document (`Week_X.md`) providing step-by-step instructions on dependencies, setup steps, and command references to run/test the code locally.
